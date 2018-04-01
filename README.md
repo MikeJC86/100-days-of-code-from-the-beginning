@@ -12,3 +12,5 @@ progress in the next 100 Days. I've created certain project guidelines for mysel
 3-28-18 : Day 2; HTML Document Standards and fashion blog project.
 <br>
 3-29-18 : Day 3; Html Tables
+<br>
+3-30-18 : Event Schedule Project
