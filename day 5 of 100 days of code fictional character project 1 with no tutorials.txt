@@ -1,0 +1,58 @@
+<html>
+ <body>
+<center>
+ <img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\Gary_Oak_BW.png">
+   <h1>Gary Oak <em>(anime/manga)</em></h1>
+	<p><strong>Region</strong>: Pallet Town, Kanto<br>
+           <strong>Accomplishments</strong>:10 Gym Badges from Kanto Region; <br>
+	   8 Gym Badges in Johto; Placed in the top 32 of the 		
+	   Indigo Plateau Conference;<br> Placed in the top 16 in 
+	   the Silver Conference.<br>
+	   <strong>Slogan</strong>:<br>
+	   <strong>Trivia</strong>:<br>
+	   <strong>Links</strong>:<br>
+	</p>
+	
+
+	<table>
+	  <th colspan="6">Known Pokemon:</th>
+ 	    <tr>
+	     <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\blastoise.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\electivire.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\umbreon.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\alakazam.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\gyarados.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\nidoking.gif"></td>                
+        </tr>
+        
+        <tr>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\arcanine.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\dodrio.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\fearow.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\golem.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\houndoom.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\kingdra.gif"></td>
+        </tr>
+        
+        <tr>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\krabby.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\magmar.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\nidoqueen.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\pidgeot.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\pinsir.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\rhydon.gif"></td>
+        </tr>
+        
+        <tr>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\scizor.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\skarmory.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\slowbro.gif"></td>
+         <td><img src="C:\Users\M\Desktop\pokemon Projects\gary oak\images\venusaur.gif"></td>
+        </tr>
+                
+	</table>
+	
+     </center>
+
+ </body>
+</html>
